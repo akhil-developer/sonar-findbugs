@@ -40,6 +40,9 @@ public final class FindbugsConstants {
 
   public static final String EXCLUDES_FILTERS_PROPERTY = "sonar.findbugs.excludesFilters";
 
+  public static final String ONLY_ANALYZE_PROPERTY = "sonar.findbugs.onlyAnalyze";
+
+  
   private FindbugsConstants() {
   }
 
